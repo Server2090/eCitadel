@@ -1,0 +1,9 @@
+tcp/22
+tcp/27500
+tcp/53
+tcp/5355
+tcp/9090
+udp/323
+udp/53
+udp/5353
+udp/5355

@@ -1,0 +1,10 @@
+dnf5-automatic.service dnf5-automatic.timer
+dnf-makecache.service dnf-makecache.timer
+fstrim.service fstrim.timer
+fwupd-refresh.service fwupd-refresh.timer
+listed. timers
+logrotate.service logrotate.timer
+plocate-updatedb.service plocate-updatedb.timer
+raid-check.service raid-check.timer
+systemd-tmpfiles-clean.service systemd-tmpfiles-clean.timer
+unbound-anchor.service unbound-anchor.timer

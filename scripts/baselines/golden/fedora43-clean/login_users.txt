@@ -1,0 +1,2 @@
+kali:1000:/bin/bash
+root:0:/bin/bash
